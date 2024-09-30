@@ -1,0 +1,6 @@
+﻿  MenuInicial.cpp
+C:\Users\T2\OneDrive\Área de Trabalho\Batalha Naval\Batalha Naval\Batalha Naval\MenuInicial.cpp(49,6): warning C4101: 'Linha': variável local não referenciada
+C:\Users\T2\OneDrive\Área de Trabalho\Batalha Naval\Batalha Naval\Batalha Naval\MenuInicial.cpp(49,13): warning C4101: 'Coluna': variável local não referenciada
+  Batalha Naval.vcxproj -> C:\Users\T2\OneDrive\Área de Trabalho\Batalha Naval\Batalha Naval\Debug\Batalha Naval.exe
+  'pwsh.exe' não é reconhecido como um comando interno
+  ou externo, um programa operável ou um arquivo em lotes.
